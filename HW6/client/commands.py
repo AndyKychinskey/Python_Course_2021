@@ -1,0 +1,8 @@
+# list of possible commands
+GET_ALL_BOOKS_IN_LIBRARY = '1'
+GET_ALL_AVAILABLE_BOOKS = '2'
+ADD_NEW_BOOK = '3'
+DELETE_BOOK = '4'
+GET_ALL_READERS = '5'
+TAKE_A_BOOK = '6'
+RETURN_A_BOOK = '7'
